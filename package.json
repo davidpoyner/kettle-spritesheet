@@ -1,0 +1,19 @@
+{
+  "name": "kettle-spritesheet",
+  "version": "0.0.0",
+  "description": "A spritesheet class for frame by frame animations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/davidpoyner/kettle-spritesheet/"
+  },
+  "keywords": [
+    "Spritesheet",
+    "animation"
+  ],
+  "author": "David Poyner",
+  "license": "ISC"
+}
